@@ -1,0 +1,16 @@
+{
+  "name": "simple-node",
+  "version": "1.0.0",
+  "description": "first node site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Jonathan Potter",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
